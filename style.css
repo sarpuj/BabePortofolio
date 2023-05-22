@@ -1,0 +1,30 @@
+* {
+  font-family: "Fredoka One", cursive;
+}
+
+.nav-link:hover {
+  color: aquamarine;
+}
+
+#home {
+  /* background-color: #3cb371; */
+  background-color: #D4FFE6;
+}
+
+#riwayat {
+  background-color: #e0ffff;
+}
+
+#riwayat .container .row {
+  padding-top: 60px;
+}
+
+#contact {
+  background-color: #D4FFE6;
+  padding-top: 60px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #a4f0f0;
+}
